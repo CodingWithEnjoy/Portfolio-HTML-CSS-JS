@@ -126,8 +126,8 @@ img {
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: rgba(0, 0, 0, 0.7);
-    backdrop-filter: blur(7px);
+    background-color: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(8px);
     transition: 0.5s;
   }
 }
