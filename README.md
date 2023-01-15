@@ -1,8 +1,8 @@
 # Portfolio-HTML-CSS-JS
 
-Preview | نتیجه ی کار blushwink
+Preview | نتیجه ی کار 😊😉
 
-https://codingwithenjoy.github.io/Responsive-Navbar-HTML-CSS-JS
+https://codingwithenjoy.github.io/Portfolio-HTML-CSS-JS
 
 اگه خوشتون اومد حتما پیج ما رو فالو کنید @codingwithenjoy
 
